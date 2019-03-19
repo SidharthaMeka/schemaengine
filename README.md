@@ -19,7 +19,7 @@ The codeless application configuration platform used to launch SaaS applications
 ## Tech / Frameworks used
 It is built using facebook's ReactJS,  Couchbase NoSQL cluster and elasticsearch
 
-# Features / Capabilities
+## Features / Capabilities
 * Configure object / schema model and generate UI using a drag and drop interface.
 * Responsive web, native iOS and Android
 * Authentication 
