@@ -1,5 +1,4 @@
 # SchemaEngine
----
 SchemaEngine is a platform that could be used to build and deploy  scalable social / commerce / enterprise applications without having to write any code.
 
 ## Motivation
@@ -9,7 +8,6 @@ Instead of spending months coding a concept, we are able to deploy web-scale app
 It is built using facebook's ReactJS,  Couchbase NoSQL db and elasticsearch
 
 ## Features / Capabilities
-
 * Configure object / schema model and generate UI using a drag and drop interface.
 * Responsive web, native iOS and Android
 * Authentication 
